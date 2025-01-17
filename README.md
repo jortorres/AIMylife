@@ -3,7 +3,7 @@ Imagine a website called "AiMyLife", a platform designed to revolutionize autono
 
 
 
-# AIMylife
+# AiMylife
 Dashboard for all things in your life AI can simplify.
 
 Link to website: https://jortorres.github.io/AiMyLife/#
